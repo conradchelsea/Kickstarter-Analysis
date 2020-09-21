@@ -12,7 +12,7 @@
 
 ### A challenge with this data is that while a 100% failure rate seems severe, there were only 5 campaigns involved. The majority of campaigns were successful. Unfortunately with charts showing the skewed data, it looks more like a gamble than it actually is. 
 
-## Launching a campaign in May with a goal of $1000 will be most successful. 
+## Launching a campaign in May with a goal of $1000 will be the most successful. 
 
 - Launching in the spring or summer is a good idea, despite it being when campaigning numbers are at their highest. Launching in December and January is a poor decision as they have the lowest success rates. 
 
@@ -20,4 +20,4 @@
 
 - We didn't have any information about the backers. We also didn't have any information into what the successful campaigns looked like, who were they targeting and how they engaged with their backers. 
 
-- Bar graphs and pie charts are always great visual communicators because their solid shapes feel weighted and more impactful than a line moving through space.
+- Bar graphs and pie charts are always great visual communicators because their solid shapes feel weighted and more impactful than a thin line moving through space.
